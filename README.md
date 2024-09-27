@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @wordstudio
+- 👀 I’m building AI tools and generators.
+- 💞️ I’m looking to collaborate on AI models
+- 📫 Reach me at hello@word.studio
